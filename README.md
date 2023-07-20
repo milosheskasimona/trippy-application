@@ -4,7 +4,7 @@
 - [Project Description](#project-description)
 - [Technologies](#technologies)
 - [Functionalities](#functionalities)
-- [Tests](#test)
+- [Tests](#tests)
 - [Architecture of the project](#architecture-of-the-project)
 - [ER Diagram of the database](#er-diagram-of-the-database)
 - [API Documentation](#api-documentation)
@@ -65,7 +65,8 @@ The project follows a Three-Layer Architecture with distinct layers:
 * Data Layer: Manages data storage and retrieval. (Repository)
 ## ER Diagram of the database
 
-![img_1.png](img_1.png)
+![img.png](img.png)
+
 ## API Documentation
 The base URL for all API endpoints is `http://localhost:8080`
 ### API Endpoints
